@@ -3,9 +3,9 @@
 K-Nearest Neighbor with Iris Data Set using Python
 
 Packages Used:
-Numpy
-Pandas
-Matplotlib
+Numpy,
+Pandas,
+Matplotlib,
 Sklearn
 
 Notebook:
